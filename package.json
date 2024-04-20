@@ -2,9 +2,14 @@
   "name": "sampleExtension",
   "displayName": "sampleExtension",
   "description": "",
+  "publisher": "KrishnaKant",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
   },
   "categories": [
     "Other"
