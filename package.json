@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/krishnkantiscoding/sampleExtension"
   },
   "categories": [
     "Other"
@@ -17,10 +17,12 @@
   "activationEvents": [],
   "main": "./extension.js",
   "contributes": {
-    "commands": [{
-      "command": "sampleExtension.helloWorld",
-      "title": "Hello World"
-    }],
+    "commands": [
+      {
+        "command": "sampleExtension.helloWorld",
+        "title": "Hello World"
+      }
+    ],
     "themes": [
       {
         "label": "mytheme",
