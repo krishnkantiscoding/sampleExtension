@@ -29,6 +29,13 @@
         "uiTheme": "vs-dark",
         "path": "./themes/themefile.json"
       }
+    ],
+    "iconThemes": [
+      {
+        "id": "myicontheme",
+        "label": "myicontheme",
+        "path": "./icons/icontheme.json"
+      }
     ]
   },
   "scripts": {
