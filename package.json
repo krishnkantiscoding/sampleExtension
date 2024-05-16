@@ -34,7 +34,14 @@
       {
         "id": "myicontheme",
         "label": "myicontheme",
-        "path": "./icons/icontheme.json"
+        "path": "./icons/myIconTheme.json"
+      }
+    ],
+    "productIconThemes": [
+      {
+        "id": "aliensAreBack",
+        "label": "Aliens Are Back",
+        "path": "./producticons/aliens-product-icon-theme.json"
       }
     ]
   },
